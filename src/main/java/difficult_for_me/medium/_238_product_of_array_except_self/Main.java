@@ -1,4 +1,4 @@
-package leetscode.easy._238_product_of_array_except_self;
+package difficult_for_me.medium._238_product_of_array_except_self;
 
 import java.util.Arrays;
 
